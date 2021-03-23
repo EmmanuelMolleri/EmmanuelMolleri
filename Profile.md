@@ -3,9 +3,9 @@
 
 **EmmanuelMolleri** 
 
-Cargo atual: ✨ Desenvolvedor de software Pleno ✨; \n
-Data de Nascimento: 06/03/1997; \n
-Linguagem: C# / .Net Core / .Net Framework / .Net \n
+Cargo atual: ✨ Desenvolvedor de software Pleno ✨; 
+Data de Nascimento: 06/03/1997; 
+Linguagem: C# / .Net Core / .Net Framework / .Net 
 
 
 
