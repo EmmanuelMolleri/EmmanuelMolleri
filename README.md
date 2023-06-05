@@ -33,5 +33,5 @@ I'm a problem solver but also a analyst, every software must be analyzed to chec
 
 **How to reach me**
 
-:email:[Email](emmanuel.molleri19@gmail.com)
+:email:emmanuel.molleri19@gmail.com
 :link:[Linkedin](https://www.linkedin.com/in/emmanuel-molleri-velho-70bba317b/)
