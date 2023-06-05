@@ -1,4 +1,4 @@
-### :coffee: Hello, do you want some coffe? 
+### :coffee: Hello, would you like some coffe? 
 
 ### *Hello World:* 
 
