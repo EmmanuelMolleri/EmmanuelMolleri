@@ -30,6 +30,7 @@ I'm a problem solver but also a analyst, every software must be analyzed to chec
 - MVC applications
 - Web Apps
 - Application tests
+- Angular MFE applications
 
 ### *My best professional experiences:*
 - I've worked on API services, not just integrations but on server side applications with services (microservices).
@@ -52,6 +53,10 @@ I'm a problem solver but also a analyst, every software must be analyzed to chec
   - We created a message queue to our providers populate them on Azure Service Bus.
   - We consumed 10 messages per iteration (each message could contain more than a 1000 products).
   - Foreach message and its products we had to make a lot of tasks to integrate them on our systems.
+- Robust Bank application with several domains.
+  - I've created the segregation of domain using MFE applications.
+  - Each MFE has it own connection to only necessary microsservices.
+  - Used a template context to configure the MFE to connect to the services and configure its functions based on that context.
 
 **How to reach me**
 
